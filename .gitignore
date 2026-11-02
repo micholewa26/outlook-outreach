@@ -1,0 +1,10 @@
+*.xlsx
+*.docx
+*.doc
+*.pdf
+*.txt
+/zalaczniki/
+/.env*
+!/przyklady/maile.xlsx
+!/przyklady/mailform.docx
+!/przyklady/followup.docx
